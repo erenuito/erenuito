@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Image Procession<br>🌱 I’m currently learning React Native<br>
+🔭 I’m currently working on Data Mining, Machine Learning and Image Procession<br>🌱 I’m currently learning React Native<br>
 
 
 ## 🌐 Socials:
